@@ -41,7 +41,7 @@
     background-color: var(--branco);
  }
 
- .lista-menu__titulo{
+ .lista-menu_titulo{
     color: var(--laranja);
     font-weight: 700;
  }
