@@ -21,13 +21,13 @@
  
 /* parte referente ao card */
 
-.card__descrição{
+.card_descrição{
     display: flex;
     justify-content: space-between;
     margin-bottom: 0.5;
 }
 
-.card__botões{
+.card_botões{
     display: flex;
     justify-content: space-between;
 }
@@ -43,31 +43,48 @@
     padding: 1em;
 }
 
-.descrição__titulo{
+.descrição_titulo{
     color: var(--laranja);
     font-weight: 700;
 }
 
-.descrição__titulo-livro{
+.descrição_titulo-livro{
     color: var(--azul);
     font-size: 18px;
     font-weight: 700;
     margin: 0.5em 0;
 }
 
-.descrição__texto{
+.descrição_texto{
     font-size: 14px;
 }
 
-.botões__item{
+.botões_item{
     margin: 0 0.5em;
 }
-.botões__ancora{
+
+.botões_ancora{
     background-color: var(--laranja);
     padding: 1em 2.2em;
     font-weight: 700;
     color: var(--branco);
     text-decoration: none;
+}
+
+ .mais_vendidos{
+    background-color: var(--branco);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+    height: 40px;
+    color: var(--laranja);
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.estrelinha{
+    padding: 0.5em 0.5em 0.5em 0;
 }
 
 
