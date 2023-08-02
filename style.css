@@ -6,11 +6,11 @@
     --cor-de-fundo: #ebebeb ;
     --branco: #ffffff;
     --laranja: #eb9b00;
-    --azul-degrade: linear-gradient(97.5deg, #002F52 35.49%, #326589 105.37%);
+    --azul-degrade: linear-gradient(97.5deg, #002F52 35.49%, #326589 165.37%);
     --font-principal:"poppins"
 }
 
-bood{
+body {
     background-color: var(--cor-de-fundo);
     font-family: var(--font-principal);
     font-size: 16px;

@@ -24,7 +24,7 @@
 .card_descrição{
     display: flex;
     justify-content: space-between;
-    margin-bottom: 0.5;
+    margin-bottom: 0.5em;
 }
 
 .card_botões{
