@@ -28,10 +28,10 @@
     display: none;
     position: absolute;
     top: 100%;
-    width: 60vw;  /*--------*/
+    width: 60vw;  
  }
 
- .container_botão:checked ~ .lista-menu{
+ .container_botao:checked ~ .lista-menu{
     display: block;
  }
 
@@ -54,7 +54,7 @@
     text-transform: uppercase;
 
  }
- .container_botão{
+ .container_botao{
    display: none;
  }
 
