@@ -1,4 +1,4 @@
-.cabeçalho_menu-hunburger{
+.cabeçalho_menu-humburger{
     width: 24px;
     height: 24px;
     background-image: url(../img/menu.svg);
@@ -31,7 +31,7 @@
     width: 60vw;  /*--------*/
  }
 
- .container_botao:checked ~ .lista-menu{
+ .container_botão:checked ~ .lista-menu{
     display: block;
  }
 
@@ -54,7 +54,7 @@
     text-transform: uppercase;
 
  }
- .container_botao{
+ .container_botão{
    display: none;
  }
 
